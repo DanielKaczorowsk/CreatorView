@@ -14,9 +14,9 @@
 	│	│	└── Builders
 	│	│		└── Class Builder View
 	│	│		└── BMFromDirectorBuilder # director to create form object view
-				└──	BuilderForms # Build object view form
-				└──	Creator # an object that supplements data to the table that creates the view form object 
-				└──	CreatorFormsan object that supplements data to the table that creates the view object
+	│	│		└──	BuilderForms # Build object view form
+	│	│		└──	Creator # an object that supplements data to the table that creates the view form object 
+	│	│		└──	CreatorFormsan object that supplements data to the table that creates the view object
 	│   ├──  DTO/      # Data Transfer Object
 	│	└── BMServices
 	bringmanage/             # Java Test
@@ -41,5 +41,6 @@
 	Chain selecting classes to create view objects
 	Director calling the builder class
 	Builders creating views
+
 
 
