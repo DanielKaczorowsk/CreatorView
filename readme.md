@@ -112,14 +112,6 @@ How to contribute:
 3. Make changes, add tests and documentation.
 4. Open a pull request describing your changes.
 
-## Changelog & roadmap
-
-Consider adding a CHANGELOG.md if you plan to do releases. Example roadmap items:
-- Stabilize BMServices API and fix known NPE/collection issues.
-- Add sample Android app module with resources and Gradle config.
-- Add unit tests and CI workflow (GitHub Actions).
-- Package and publish AAR to a Maven/GitHub Package registry.
-
 ## License
 
 This project is licensed under the MIT License — see LICENSE for details.
